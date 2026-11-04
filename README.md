@@ -16,6 +16,16 @@ Desenvolvido a partir dos desafios práticos da plataforma **B7Web**, o projeto 
 
 O principal objetivo do desenvolvimento é consolidar conhecimentos em computação gráfica para aplicações web, manipulação de coordenadas cartesianas, eventos de interação e renderização gráfica bidimensional.
 
+## 🌐 Demonstração Online
+
+<p align="center">
+  <a href="https://projeto-desenhando-no-canvas.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visualizar_Projeto_na_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visualizar projeto na Vercel">
+  </a>
+</p>
+
+Acesse a aplicação diretamente pelo link: [https://projeto-desenhando-no-canvas.vercel.app/](https://projeto-desenhando-no-canvas.vercel.app/).
+
 ## 🛠️ Tecnologias Utilizadas
 
 | Tecnologia             | Aplicação no Projeto                                                             |
