@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="pt-BR">
+   <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Canvas - Desenho</title>
+      <link rel="stylesheet" href="./style.css" />
+   </head>
+   <body>
+      <div class="canvas-container">
+         <h1>Desenhando no Canvas</h1>
+
+         <canvas id="tela" width="860" height="480"></canvas>
+
+         <div class="colorArea">
+            <div
+               data-color="#000000"
+               style="background-color: #000000"
+               class="color active"
+            ></div>
+            <div
+               data-color="#0000ff"
+               style="background-color: #0000ff"
+               class="color"
+            ></div>
+            <div
+               data-color="#ff0000"
+               style="background-color: #ff0000"
+               class="color"
+            ></div>
+            <div
+               data-color="#008000"
+               style="background-color: #008000"
+               class="color"
+            ></div>
+            <div
+               data-color="#ffff00"
+               style="background-color: #ffff00"
+               class="color"
+            ></div>
+            <div
+               data-color="#808080"
+               style="background-color: #808080"
+               class="color"
+            ></div>
+         </div>
+
+         <div class="button-area">
+            <button class="clear">Limpar Quadro</button>
+         </div>
+      </div>
+
+      <footer>Criado por Dev. Rafael Santana</footer>
+
+      <script src="./script.js"></script>
+   </body>
+</html>
